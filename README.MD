@@ -1,2 +1,2 @@
 # Project 
-This is a sample Project
+This is a sample Project.
